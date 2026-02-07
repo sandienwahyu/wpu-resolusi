@@ -1,0 +1,14 @@
+Salam kenal saya Sandien dari Jogja
+
+Resolusi 2026:
+Mendapatkan penghasilan dari freelance web programming
+
+Misi:
+- HTML
+- CSS
+- Javascript
+  ^ React
+  ^ Next
+  ^ Node
+- Git dan Github
+- PostgreSQL
